@@ -44,8 +44,7 @@ to train the model.
 
 ## Inference
 
- - `load_video.py` is the inference script, and has been made from scratch
-   (with Matterport acknowledged), and therefore is built to run from
+ - `load_video.py` is the inference script, that is built to run from
    Spyder IDE.
    
  - `load_video2.py` is the inference script adapted for Kalman filtering.
