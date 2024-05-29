@@ -64,16 +64,11 @@ Example video outputs are included in this repository and are as follows:
 # Code Quality and Contribution Guidelines
 The source code in this repository accompanies the research conducted as part of Case Study 1: Hot Metal Ladle Tracking. 
 
-It is important to note that this project was initiated with a background in mechanical engineering rather than computer science or software engineering. 
+The code focuses on application of computer vision to the steel industry and is shared for collaboration and contribution purposes. 
 
-Therefore, the focus is on application of these technologies rather than in software engineering principles. 
+Every effort has been made to ensure quality and readability, however this may further improve over time.
 
-The code is shared for collaboration and contribution purposes, and whilst every effort has been made to ensure quality and readability, it may not adhere to all conventions of software development. 
-
-This is particularly true for Case Study 1, which was conducted with limited coding experience and almost no computer vision experience.   
-
-Feedback is welcome, with the understanding that the primary aim is to facilitate further research and application in the field, 
-rather than to serve as a benchmark for software engineering excellence. 
+Feedback and contributions that enhance the functionality of the code are welcome.
 
 # Publication
 
